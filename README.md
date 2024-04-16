@@ -8,5 +8,5 @@ Clicking on submit shows a modal with the final calculated values.
 
 This project is developed using HTML, CSS, and JavaScript. Bootstrap are used for styling and interactivity.
 
-**Live Demo**
-link 
+**Live Demo\**
+link : https://vanshita021.github.io/Tax_calculator/
